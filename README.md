@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00FF7F&size=35&center=true&vCenter=true&width=1000&lines=Olá+Mundo!+Me+chamo+Paulo+Pragana,+muito+prazer👋;Tenho+30+anos;Quero+me+tornar+um+Cientista+de+Dados!👨🏻‍🔬🎲;Seja+bem-vindo(a)+ao+meu+perfil!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00FF7F&size=35&center=true&vCenter=true&width=1000&lines=Olá+Mundo!+Me+chamo+Paulo+Pragana,+muito+prazer👋;Tenho+30+anos;Focado+na+Ciências+de+Dados!👨🏻‍🔬🎲;Seja+bem-vindo(a)+ao+meu+perfil!+:%29)](https://git.io/typing-svg)
 
 ## 📊 Métricas do Github
 <div align="center">  
