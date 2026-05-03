@@ -1,75 +1,109 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=120&section=header"/>
+<div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00FF7F&size=35&center=true&vCenter=true&width=1000&lines=Olá+Mundo!+Me+chamo+Paulo+Pragana,+muito+prazer👋;Tenho+30+anos;Focado+na+Ciências+de+Dados!👨🏻‍🔬🎲;Seja+bem-vindo(a)+ao+meu+perfil!+:%29)](https://git.io/typing-svg)
+```
+█████╗ ██╗    ███████╗███╗   ██╗ ██████╗ ██╗███╗   ██╗███████╗███████╗██████╗
+██╔══██╗██║    ██╔════╝████╗  ██║██╔════╝ ██║████╗  ██║██╔════╝██╔════╝██╔══██╗
+███████║██║    █████╗  ██╔██╗ ██║██║  ███╗██║██╔██╗ ██║█████╗  █████╗  ██████╔╝
+██╔══██║██║    ██╔══╝  ██║╚██╗██║██║   ██║██║██║╚██╗██║██╔══╝  ██╔══╝  ██╔══██╗
+██║  ██║██║    ███████╗██║ ╚████║╚██████╔╝██║██║ ╚████║███████╗███████╗██║  ██║
+╚═╝  ╚═╝╚═╝    ╚══════╝╚═╝  ╚═══╝ ╚═════╝ ╚═╝╚═╝  ╚═══╝╚══════╝╚══════╝╚═╝  ╚═╝
+```
 
-## 📊 Métricas do Github
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=pragana12&show_icons=true&count_private=true&hide_border=true&title_color=15e5a6&icon_color=15e5a6&text_color=c9d1d9&bg_color=0d1117" alt="Rafael Henrique github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pragana12&layout=compact&hide_border=true&title_color=15e5a6&text_color=FFFFFF&bg_color=0d1117" />
+### AI Engineer · LLMs in Production · LangChain · RAG · LangGraph
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-paulopraganaa-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/paulopraganaa/)
+[![GitHub](https://img.shields.io/badge/GitHub-pragana12-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/pragana12)
+
 </div>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=pragana12&bg_color=000000&color=15e5a6&line=A020F0&point=0a855c&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+---
 
-## 😸 Fatos sobre mim:
-- 🔭 Entusiasta do desenvolvimento de software.
-- 🎲 Estudos atualmente voltados para Data Science e Python.
-- 👯 Colaboro em projetos e pesquisas de Inteligência Artificial.
-- 💭 Fale comigo sobre Dados, Tecnologia, Carreira e Inovação - ficarei feliz em ajudar.
-- 📫 Entre em contato: **pragana.negocios@gmail.com**
-- 🧠 **Habilidades:** Python | Machine Learning | Web Scraping | MySQL | AWS Cloud | API REST | Análise de dados | IoT | Eletrônica | Automação industrial | Gestão de manutenção
-  
+## About
 
-## 🚀 **Linguagens e Ferramentas:**
-### 💻 Ferramentas de Desenvolvimento:
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?style=for-the-badge&logo=Jupyter&logoColor=white)
-![Github](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white)
-![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?style=for-the-badge&logo=Visual-Studio-Code&logoColor=white)
-![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-4D4D4D.svg?style=for-the-badge&logo=Windows-Terminal&logoColor=white)
+I build AI systems that solve real business problems — not demos that work only in controlled environments.
 
+My focus is on **LLMs in production**: agents that actually run, RAG pipelines that retrieve what matters, and workflows that integrate cleanly with legacy corporate systems (ERP, BPM, databases).
 
+Currently building production AI systems at  **ZDT Nexus**, autonomous agents, RAG pipelines, and process automation for enterprise clients in Brazil.
 
-### 🎲 Ciência, Engenharia e Visualização de Dados:
-![Python](https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![Numpy](https://img.shields.io/badge/NumPy-013243.svg?style=for-the-badge&logo=NumPy&logoColor=white)
-![Scikit Learn](https://img.shields.io/badge/scikitlearn-F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Plotly](https://img.shields.io/badge/Plotly-3F4F75.svg?style=for-the-badge&logo=Plotly&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=MySQL&logoColor=white)
+---
 
+## What I Build
 
-### 📚 Tenho conhecimento básico em:
-![AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E.svg?style=for-the-badge&logo=Amazon-AWS&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4.svg?style=for-the-badge&logo=Google-Cloud&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white)
+**Autonomous Agents** — Multi-step agents with LangGraph, custom tool routing, persistent memory and production-grade error handling.
 
+**RAG Systems** — Custom chunking strategies, semantic + hybrid retrieval, vector stores (PGVector, ChromaDB, FAISS). Not just "embed and retrieve" — context-aware pipelines calibrated for each use case.
 
-### 🌱 Estou aprendendo / Tenho interesse:
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1.svg?style=for-the-badge&logo=PostgreSQL&logoColor=white)
-![Pyspark](https://img.shields.io/badge/Apache%20Spark-E25A1C.svg?style=for-the-badge&logo=Apache-Spark&logoColor=white)
-![Azure](https://img.shields.io/badge/Microsoft%20Azure-0078D4.svg?style=for-the-badge&logo=Microsoft-Azure&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248.svg?style=for-the-badge&logo=MongoDB&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
-![Cloudera](https://img.shields.io/badge/Cloudera-F96702.svg?style=for-the-badge&logo=Cloudera&logoColor=white)
-![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20.svg?style=for-the-badge&logo=Apache-Kafka&logoColor=white)
-![]()
+**LLM Integrations** — OpenAI, Anthropic, local models via Ollama. API layer with FastAPI, streaming, cost tracking, logging.
 
-<br>
+**Process Automation** — Human-in-the-loop workflows, RPA pipelines, ERP integrations (TOTVS Protheus / Fluig).
 
-<h2 align="left">🔗 Entre em contato comigo:</h2>
-<div align="left"> 
-<a href="https://www.linkedin.com/in/paulopraganaa/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
+---
+
+## Stack
+
+```python
+stack = {
+    "agents":    ["LangChain", "LangGraph", "ReAct", "Tool Calling"],
+    "llms":      ["OpenAI", "Anthropic", "Ollama", "Gemini"],
+    "rag":       ["PGVector", "ChromaDB", "FAISS", "Semantic + Hybrid Retrieval"],
+    "backend":   ["Python", "FastAPI", "PostgreSQL", "Supabase"],
+    "infra":     ["AWS", "Docker", "Docker Swarm", "EC2"],
+    "erp":       ["TOTVS Protheus", "TOTVS Fluig", "REST Integrations"],
+}
+```
+
+---
+
+## Selected Projects
+
+### Athena — Enterprise AI Agent for TOTVS Protheus
+AI agent that answers business questions by dynamically generating SQL queries against a TOTVS ERP with hundreds of tables and domain-specific business rules.
+
+The core challenge: how to pass complex context to an LLM without prompt bloat and hallucination. Solution: a custom RAG node in the LangGraph flow that retrieves the exact query template and business rules relevant to each question — using semantic-delimiter-based chunking (`#----------#`) instead of fixed-size chunks. Reduced query generation errors by ~70%.
+
+`LangGraph` `LangChain` `RAG` `PGVector` `FastAPI` `Python` `TOTVS Protheus`
+
+---
+
+### GITIA — Human-in-the-Loop Platform (Guaraves)
+Replaced TOTVS Fluig with a custom BPM/ECM platform integrating AI-powered process automation. Built end-to-end: process mapping, backend architecture, AI integration, and internal adoption.
+
+Result: automated dozens of internal workflows for a 3,000+ employee company, reducing manual intervention and process cycle times significantly.
+
+`Python` `FastAPI` `PostgreSQL` `AI Automation` `BPM` `Human-in-the-Loop`
+
+---
+
+### J.A.R.V.I.S. — Personal AI Assistant
+Personal autonomous assistant with persistent memory, multi-tool routing, and local LLM support via Ollama. Built with LangGraph for explicit state control and ReAct pattern for tool decision-making.
+
+`LangGraph` `LangChain` `Ollama` `ReAct` `Memory` `Python`
+
+---
+
+## GitHub Stats
+
+<div align="center">
+
+![Paulo's GitHub stats](https://github-readme-stats.vercel.app/api?username=pragana12&show_icons=true&count_private=true&hide_border=true&title_color=ffffff&icon_color=ffffff&text_color=c9d1d9&bg_color=0d1117)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pragana12&layout=compact&hide_border=true&title_color=ffffff&text_color=c9d1d9&bg_color=0d1117)
+
 </div>
 
- <br>
- 
-<h2 align="left">🐈‍⬛ My Github in English:</h2>
-<div align="left"> 
-<a href="https://github.com/pragana12" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
+---
+
+## Currently
+
+- Building production AI systems at **ZDT Nexus**
+- Exploring **multi-agent orchestration** with LangGraph and Paperclip
+- Writing about **LLMs in production** — the gap between what works in demos and what works at scale
+
+---
+
+<div align="center">
+
+*"The difference between a PoC and production is everything that happens after the demo works."*
+
 </div>
-
-
-
-<h2 align="center"> "O segredo do sucesso reside na harmonia entre a perseverança, a serenidade e a determinação." </h2>
-
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=120&section=footer"/>
-
